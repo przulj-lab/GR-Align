@@ -21,7 +21,7 @@ GR-Align is a fast heuristic for aligning and comparing protein structures under
 
 ## Downloads
 
-- [GR-Align 1.5 for Linux x64](https://github.com/przulj-lab/GR-Align/releases/download/v1.5/GR-Align_1.5.zip)
+- [GR-Align 1.5 for Linux x64](https://github.com/przulj-lab/GR-Align/releases/download/v1.5/GR-Align_v1.5.zip)
 - [Supplementary material (PDF)](https://github.com/przulj-lab/GR-Align/releases/download/v1.5/GR-Align_Supplemental.pdf)
 
 ## How to run GR-Align

@@ -6,7 +6,7 @@
 
 **Noël Malod-Dognin and Nataša Pržulj**
 
-Corresponding author: Dr. N. Malod-Dognin
+Corresponding author: Dr. N. Malod-Dognin, noel.malod@mbzuai.ac.ae
 
 <img src="images/optimal_matching.jpg" width="400">
 

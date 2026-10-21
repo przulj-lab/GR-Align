@@ -8,7 +8,7 @@
 
 Corresponding author: Dr. N. Malod-Dognin
 
-<img src="images/optimal_matching.png" width="400">
+<img src="images/optimal_matching.jpg" width="400">
 
 *Optimal CMO alignment*
 
